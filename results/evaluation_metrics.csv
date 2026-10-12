@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1-Score,Latencia (ms/muestra)
+distilbert-base-uncased-finetuned-sst-2-english,0.3333,0.1111,0.3333,0.1667,18.59
+pysentimiento/robertuito-sentiment-analysis,0.3333,0.1111,0.3333,0.1667,32.38
+cardiffnlp/twitter-roberta-base-sentiment-latest,0.3333,0.1111,0.3333,0.1667,21.44
