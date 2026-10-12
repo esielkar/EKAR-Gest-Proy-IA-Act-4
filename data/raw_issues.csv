@@ -1,0 +1,49 @@
+text,label
+"El contenedor de Docker en el Synology NAS se detuvo por falta de memoria RAM.",0
+"La conexión VPN con Tailscale se desconecta constantemente en el puerto WAN.",0
+"Falla en el certificado SSL de Cloudflare Tunnel para el dominio de producción.",0
+"El disco NVMe del Synology DS1525+ reporta una temperatura elevada en el almacenamiento.",0
+"Error de permisos 500 al intentar sincronizar carpetas mediante Hyper Backup.",0
+"Se cayó el servicio de Nginx Proxy Manager tras una actualización de red.",0
+"El switch TRENDnet multi-gigabit presenta pérdida de paquetes en el puerto de 10Gbps.",0
+"Fallo de energía en la ubicación principal; el UPS entró en modo batería correctamente.",0
+"El contenedor de Portainer no responde al intentar reiniciar los servicios web.",0
+"Error en la regla de firewall del Synology NAS al bloquear IPs externas sospechosas.",0
+"Problema de cuota de disco lleno en la partición principal del servidor de desarrollo.",0
+"La interfaz web de administración del NAS es inaccesible desde la red externa.",0
+"Fallo en la sincronización de carpetas compartidas mediante rsync programado.",0
+"El servicio de DNS local en el contenedor Docker dejó de resolver nombres de host.",0
+"Alerta de S.M.A.R.T. en uno de los discos duros mecánicos del pool de almacenamiento.",0
+"Error de autenticación SSH al intentar conectar por clave pública al servidor ASUS.",0
+"Error de sintaxis al compilar la aplicación en Flutter Web usando Dart Frog.",1
+"Excepción NullPointerException al inicializar el servicio TelecomManager en Android.",1
+"Fallo en la deserialización del archivo JSON recibido desde la API REST principal.",1
+"Error de conexión con la base de datos PostgreSQL por timeout en el pool de conexiones.",1
+"El ORM Drift arroja un conflicto de migración de esquema en la base de datos local SQLite.",1
+"Falla en la validación del token JWT al intentar consumir los endpoints protegidos.",1
+"Error 404 al rutear las peticiones en el microservicio desarrollado con Flask.",1
+"Memory leak detectado en el hilo principal de la aplicación móvil al consumir memoria RAM.",1
+"Fallo en la compilación cruzada de Swift para iOS dentro del entorno de Xcode.",1
+"Error de concurrencia al actualizar estados asíncronos en la interfaz de usuario de Flutter.",1
+"Excepción de tipo StackOverflowError al ejecutar recursivamente una función de parseo.",1
+"El cliente HTTP de Dart arroja un error de certificado SSL autofirmado no válido.",1
+"Fallo en el mapeo de entidades de Spring Boot con la base de datos MariaDB.",1
+"Error en la consulta SQL generada automáticamente por el repositorio de datos.",1
+"Excepción de tipo IndexOutOfBoundsException al iterar una lista vacía de elementos.",1
+"Falla en el manejo de excepciones globales dentro del controlador principal de la API.",1
+"Error de compilación en Kotlin por incompatibilidad de versiones en las dependencias Gradle.",1
+"Necesitamos agregar una nueva pantalla de autenticación con Biometría en Kotlin.",2
+"Actualizar las dependencias del monorepo mediante Melos y pubspec.",2
+"Optimizar la consulta SQL en PostgreSQL para mejorar el rendimiento del dashboard.",2
+"Diseñar e implementar el nuevo endpoint REST para la gestión de perfiles de usuario.",2
+"Integrar el SDK de notificaciones push utilizando Firebase Cloud Messaging.",2
+"Refactorizar el módulo de llamadas VoIP utilizando la arquitectura limpia en Flutter.",2
+"Agregar soporte para múltiples idiomas (i18n) en la interfaz de usuario de la app móvil.",2
+"Implementar un sistema de caché en memoria con Redis para acelerar las respuestas de la API.",2
+"Crear un nuevo componente reutilizable de tarjetas flotantes en el diseño UI.",2
+"Documentar los endpoints de la API utilizando la especificación OpenAPI y Swagger.",2
+"Migrar el sistema de gestión de estados actual hacia Bloc pattern en Flutter.",2
+"Implementar pruebas unitarias automatizadas para los servicios de autenticación.",2
+"Añadir soporte para modo oscuro nativo en todas las vistas de la aplicación.",2
+"Optimizar el tamaño de las imágenes cargadas mediante compresión WebP automática.",2
+"Configurar un pipeline de CI/CD automatizado utilizando GitHub Actions y Forgejo.",2
